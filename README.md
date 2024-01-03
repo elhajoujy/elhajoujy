@@ -2,7 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h3 align="center">A passionate full-stack--developer from morocco</h3>
+<h3 align="center">
+  Full Stack Developer Java | Angular | Spring | Spring Cloud | Reactive Spring | Api Design @Youcode-UM6P
+</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhajuojy&label=Profile%20views&color=0e75b6&style=flat" alt="elhajuojy" /> </p>
 
@@ -20,14 +22,20 @@
 </p>
 
 
-##  Flutter UI Gallery
+##  ELMAHDI ELHJOUJY
+<!-- 
 <div style="display:felx; gap:50px ;width:90%;margi:auto; gap:5%">
 <img  src="https://user-images.githubusercontent.com/86893073/186895394-b9d5522c-7b3e-4237-9643-1119b60a0f5c.jpg" width="45%" /> 
 <img  src="https://user-images.githubusercontent.com/86893073/187028627-d13387f2-a913-4fab-82b0-ab629b436011.jpg" width="45%" /> 
 <img src="https://user-images.githubusercontent.com/86893073/186894937-a46e5756-cfe0-42f3-bd75-6821b5380370.jpg" width="45%" /> 
 <img src="https://user-images.githubusercontent.com/86893073/186894946-ce1747cc-ff2a-44d3-b1d8-185eb9465596.jpg" width="45%" /> 
 </div>
-
+-->
+<div style="display:felx; gap:50px ;width:90%;margi:auto; gap:5%">
+<img  src="https://media.licdn.com/dms/image/D4D16AQHVr0_pghEBFQ/profile-displaybackgroundimage-shrink_350_1400/0/1702542521252?e=1709769600&v=beta&t=N1AwH57hVD2EHLLchYDPua45q5JJAUJt6EtHdflt6uU" width="100%" /> 
+</div>
 
 ## Links
 - 📫 How to reach me **elhajuojye@gmail.com**
+- ☕️ https://www.linkedin.com/in/elmahdi-elhjoujy/
+
