@@ -28,7 +28,7 @@
 
 
 
-
+<!-- 
 ##  ELMAHDI ELHJOUJY
 
 <div style="display:felx; gap:50px ;width:90%;margi:auto; gap:5%">
@@ -38,7 +38,6 @@
 <img src="https://user-images.githubusercontent.com/86893073/186894946-ce1747cc-ff2a-44d3-b1d8-185eb9465596.jpg" width="45%" /> 
 </div>
 -->
-
 
 ## Links
 - 📫 How to reach me **elhajuojye@gmail.com**
