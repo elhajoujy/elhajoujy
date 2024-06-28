@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-  Full Stack Developer Java | Angular | Spring | Spring Cloud | Reactive Spring | Api Design @Youcode-UM6P | FULTTER 
+  Full Stack Developer Java | Angular | Spring | Spring Cloud | Reactive Spring | Api Design | FULTTER 
 </h3>
 
 
